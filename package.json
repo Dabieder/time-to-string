@@ -1,0 +1,25 @@
+{
+  "name": "time-to-string",
+  "version": "0.0.1",
+  "description": "Converts number of seconds to the string value",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parakhod/time-to-string.git"
+  },
+  "keywords": [
+    "time",
+    "convert",
+    "counter",
+    "timer",
+    "second",
+    "minute",
+    "hour"
+  ],
+  "author": "Andrey Korinskiy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/parakhod/time-to-string/issues"
+  },
+  "homepage": "https://github.com/parakhod/time-to-strings#readme"
+}

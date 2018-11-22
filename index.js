@@ -1,4 +1,4 @@
-const addLeadingZero = v => v > 10 ? `${v}` : `0${v}`;
+const addLeadingZero = v => v >= 10 ? `${v}` : `0${v}`;
 
 const timeToString = (value, withHours = false) => {
   if (typeof value !== 'number' || isNaN(value)) {
